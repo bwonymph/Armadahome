@@ -32,20 +32,20 @@ self.__precacheManifest = [
     "url": "/armadahome/static/media/Armada_logo_horiz_white.85cd1320.png"
   },
   {
-    "revision": "ced611daf7709cc778da928fec876475",
-    "url": "/armadahome/static/media/slick.ced611da.eot"
+    "revision": "d41f55a78e6f49a5512878df1737e58a",
+    "url": "/armadahome/static/media/slick.d41f55a7.ttf"
   },
   {
     "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
     "url": "/armadahome/static/media/slick.b7c9e1e4.woff"
   },
   {
-    "revision": "d41f55a78e6f49a5512878df1737e58a",
-    "url": "/armadahome/static/media/slick.d41f55a7.ttf"
-  },
-  {
     "revision": "f97e3bbf73254b0112091d0192f17aec",
     "url": "/armadahome/static/media/slick.f97e3bbf.svg"
+  },
+  {
+    "revision": "ced611daf7709cc778da928fec876475",
+    "url": "/armadahome/static/media/slick.ced611da.eot"
   },
   {
     "revision": "f9d781d877cb6064641efa81c7d45f5f",
@@ -184,12 +184,12 @@ self.__precacheManifest = [
     "url": "/armadahome/static/media/nunitosans-extrabold-webfont.91a3b7aa.woff"
   },
   {
-    "revision": "3292bea5d61c40a7e2416bb6723ac86b",
-    "url": "/armadahome/static/media/nunitosans-bold-webfont.3292bea5.woff"
-  },
-  {
     "revision": "417a4640ea70c9a83c8ec4273a27026d",
     "url": "/armadahome/static/media/nunitosans-extralight-webfont.417a4640.woff"
+  },
+  {
+    "revision": "3292bea5d61c40a7e2416bb6723ac86b",
+    "url": "/armadahome/static/media/nunitosans-bold-webfont.3292bea5.woff"
   },
   {
     "revision": "d84e8f96a17ba9bf877e02fa072ba941",
@@ -220,12 +220,12 @@ self.__precacheManifest = [
     "url": "/armadahome/static/media/nunitosans-extralight-webfont.65d50734.ttf"
   },
   {
-    "revision": "028fd38a1c8ca5c92c979f2dfc7a172b",
-    "url": "/armadahome/static/media/nunitosans-light-webfont.028fd38a.ttf"
-  },
-  {
     "revision": "fecce994ef9f250f348818ca2f2b3d98",
     "url": "/armadahome/static/media/nunitosans-regular-webfont.fecce994.eot"
+  },
+  {
+    "revision": "028fd38a1c8ca5c92c979f2dfc7a172b",
+    "url": "/armadahome/static/media/nunitosans-light-webfont.028fd38a.ttf"
   },
   {
     "revision": "b81fbe5b802ec79b035f34147798766c",
