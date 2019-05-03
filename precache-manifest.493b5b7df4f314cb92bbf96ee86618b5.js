@@ -32,12 +32,12 @@ self.__precacheManifest = [
     "url": "/armadahome/static/media/Armada_logo_horiz_white.85cd1320.png"
   },
   {
-    "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
-    "url": "/armadahome/static/media/slick.b7c9e1e4.woff"
-  },
-  {
     "revision": "ced611daf7709cc778da928fec876475",
     "url": "/armadahome/static/media/slick.ced611da.eot"
+  },
+  {
+    "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
+    "url": "/armadahome/static/media/slick.b7c9e1e4.woff"
   },
   {
     "revision": "d41f55a78e6f49a5512878df1737e58a",
@@ -132,12 +132,12 @@ self.__precacheManifest = [
     "url": "/armadahome/static/media/nunitosans-bold-webfont.50b6a4ee.eot"
   },
   {
-    "revision": "d3aa9a1d8a86e83544b8ce75c399e8ed",
-    "url": "/armadahome/static/media/nunitosans-black-webfont.d3aa9a1d.eot"
-  },
-  {
     "revision": "c5c65ea7356c12b4403443ad114950b4",
     "url": "/armadahome/static/media/nunitosans-bold-webfont.c5c65ea7.woff2"
+  },
+  {
+    "revision": "d3aa9a1d8a86e83544b8ce75c399e8ed",
+    "url": "/armadahome/static/media/nunitosans-black-webfont.d3aa9a1d.eot"
   },
   {
     "revision": "a3e098c0d6243ae390c72492f9872f14",
@@ -184,12 +184,12 @@ self.__precacheManifest = [
     "url": "/armadahome/static/media/nunitosans-extrabold-webfont.91a3b7aa.woff"
   },
   {
-    "revision": "417a4640ea70c9a83c8ec4273a27026d",
-    "url": "/armadahome/static/media/nunitosans-extralight-webfont.417a4640.woff"
-  },
-  {
     "revision": "3292bea5d61c40a7e2416bb6723ac86b",
     "url": "/armadahome/static/media/nunitosans-bold-webfont.3292bea5.woff"
+  },
+  {
+    "revision": "417a4640ea70c9a83c8ec4273a27026d",
+    "url": "/armadahome/static/media/nunitosans-extralight-webfont.417a4640.woff"
   },
   {
     "revision": "d84e8f96a17ba9bf877e02fa072ba941",
